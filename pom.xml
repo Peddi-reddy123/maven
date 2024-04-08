@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#/usr/bin/bash
 echo "yum install python" > -/output.txt
 echo "python --version" > -/output.txt
 echo"#################" >> -/output.txt
