@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-echo "this is my first bash script" > -/output.txt
 echo "yum install python" > -/output.txt
 echo "python --version" > -/output.txt
 echo"#################" >> -/output.txt
